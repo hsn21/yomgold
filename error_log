@@ -1,0 +1,2 @@
+[27-Aug-2020 13:24:13 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\CategoryController::fetchParentCats() in /home/futurevalley2/subfuture.futurevalleyportal2.com/app/Http/Controllers/CategoryController.php on line 15
+[27-Aug-2020 13:24:25 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\CategoryController::fetchParentCats() in /home/futurevalley2/subfuture.futurevalleyportal2.com/app/Http/Controllers/CategoryController.php on line 15
